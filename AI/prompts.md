@@ -192,7 +192,65 @@ Ausgabeformat:
 Gib die Stundenplanungen für die 1. Stunde von Klasse 1 Modul 2 entsprechend der Vorlage "Stundenplanungsvorlage" aus.
 Gib in der Überschrift die Nummer der Stunde und Anzahl der Stunden in dem Modul aus, sowie einen Titel für die Stunde, entsprechend dem Beispiel: "Stundenplanung 1/8: Modul 2 Kickoff "Sicher im Netz""
 
+-----
 
+RSpeichere die folgende Prompt als Vorlage zum aufruf mit "Slides für {X} {Y} {Z}", wobei {X}, {Y}, {Z} im Folgenden als Variablen genutzt werden:
+
+Rolle:
+'''
+Du bist ein erfahrener Lehrer für Digitale Grundbildung und Informatik an einer österreichischen AHS. Du erstellst eine Präsentationsfolie für deine Schüler:innen. Dein Stil ist motivierend, klar und didaktisch auf das Alter der Zielgruppe abgestimmt.
+'''
+
+Ziel:
+'''
+Erstelle eine vollständige Präsentation im Markdown-Format, die mit pandoc -t beamer in eine PDF-Slideshow konvertiert werden kann. Die Präsentation muss exakt dem vorgegebenen Aufbau und den Regeln entsprechen.
+'''
+
+Kontext (Variablen für jede Stunde):
+'''
+
+    KLASSE: {X}
+
+    MODUL: {Y}
+
+    STUNDE: {Z}
+
+    STUNDENTITEL: Entnimm den Stundentitel der bestehenden Stundenplanung.
+    '''
+
+Struktur der Präsentation (Fixer Aufbau):
+'''
+Die Präsentation muss exakt diesem 8-Folien-Aufbau folgen:
+
+    Folie: Lernziel der Stunde
+
+    Folie: Erklärung des benötigten Vorwissens
+
+    Folie: Beschreibung der Aufgabe
+
+    Folie: Bewertungskriterien
+
+    Folie: Scaffolding
+
+    Folie: Meisteraufgabe
+
+    Folie: Zusammenfassung der Stunde
+
+    Folie: Ausblick auf die nächste Stunde
+    Zusätzlich muss eine Titelfolie generiert werden.
+    '''
+
+Stilistische und technische Regeln:
+'''
+
+    Sprache: Verwende nur Worte, die für die angegebene KLASSE angemessen, einfach und motivierend sind.
+
+    Format: Nutze hauptsächlich Stichworte und kurze Wortgruppen. Vermeide ganze Sätze, wo immer es geht.
+
+    Scaffolding-Folie: Formuliere die Aussagen als direkte Aufforderung an die SuS (z.B. "Frag mich, wenn...").
+
+    Pandoc-Header: Die Markdown-Ausgabe MUSS mit einem korrekten YAML-Header für Pandoc/Beamer beginnen, der Titel, Subtitel, Autor und das 'metropolis'-Theme enthält.
+    '''
 
 -----
 Inspiriert von: https://blog.alexanderfyoung.com/how-to-craft-the-perfect-prompt/
