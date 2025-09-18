@@ -1,5 +1,10 @@
 # Resourcen
 
+## Internet für die Jüngeren
+* https://www.internet-abc.de/
+* https://www.klicksafe.de/
+
+
 ## Medienanalyse
 * https://studyflix.de/allgemeinwissen/bildanalyse-4843
 
