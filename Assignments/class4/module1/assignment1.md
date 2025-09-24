@@ -9,8 +9,8 @@ Schritt-für-Schritt Anleitung:
 * Sollte KI bei der Auswahl von Bewerber:innen für einen Job eingesetzt werden dürfen?
 * Wer trägt die Verantwortung, wenn ein autonomes Fahrzeug einen Unfall verursacht?
 * Sollten von KI erstellte Kunstwerke preisgekrönt werden können?
-2. Sammelt eure Argumente auf: https://argumentationswippe.de/# und versucht ausgeglichen viele Pro- und Contraargumente zu finden
+2. Ihr könnt eure Argumente auf auf: https://argumentationswippe.de/# sammeln, um zu sehen, ob ihr ausgeglichen viele Pro und Contro Argumente habt.
 
-Speichert die Ergebnisse einerseits in Form eines Downloads und übertragt sie auch gleich in Word zur weiteren Bearbeitung.
+Fasst eure Pro/Contra Listen in einem Word Dokuemnt zusammen. (Beachtet sinnvoll Formatierung mit Formatvorlagen!)
 Gebt das Word-Dokument hier ab.
 
