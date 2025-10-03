@@ -6,7 +6,7 @@
 
 Schritt-für-Schritt Anleitung:
 * Wählt eine Storyboard-Vorlage:
-* FREE Blank Storyboard Templates (Instant Download) | Boords
+* [FREE Blank Storyboard Templates (Instant Download) | Boords](https://boords.com/storyboard-template)
 * Strukturiert eure Geschichte in drei Akten:
   * Akt 1: Die Lüge (ca. 30 Sek.): Wie stellt ihr die Falschmeldung kurz und klar dar? Was soll man sehen (z.B. der Social-Media-Post)? Was sagt der Sprecher?
   * Akt 2: Die Recherche (ca. 1.5 Min.): Wie zeigt ihr eure Detektivarbeit? Zeigt ihr die Rückwärts-Bildersuche oder den Quellen-Check? Was erklärt der Sprecher zu den einzelnen Schritten?
