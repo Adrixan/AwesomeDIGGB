@@ -14,6 +14,14 @@ Schritt-für-Schritt Anleitung:
 * Füllt die Vorlage aus: Beschreibt für jeden Akt, was man sieht und was man hört.
 * Verteilt die Rollen: Wer im Team übernimmt welche Sprecherrolle?
 
+### Beispiele Storyboard, Video:
+* https://youtu.be/_rTNT4J2FGo?si=HAim6uh4F0IOaZ-z
+* https://youtu.be/duYcEZ52vao?si=CpigH2EIyhlwwLlU
+
+### Alternativ: Erstellt ein Drehbuch
+Der Aufbau bleibt identisch wie in der Angabe zum Storyboard, jedoch beschreibt ihr die Szenen. Für die Definition eines Drehbuchs, schaut in die Ressourcen
+
 ## Ressourcen:
 * https://www.youtube.com/watch?v=73nOkYopP0k&pp=ygUkd2llIG1hY2h0IG1hbiBlaW4gZ3V0ZXMgZXJrbMOkcnZpZGVv
 * https://kreative-schreibwelt.de/handlungsaufbau-drei-akt-struktur/
+* Drehbuch: https://www.filmmachen.de/tipps-und-tricks/schreiben/drehbuch-schreiben
