@@ -10,7 +10,9 @@ Schritt-für-Schritt Anleitung:
 3. Importiert alle Clips: Zieht alle eure Videodateien in die Timeline des Schnittprogramms.
 4. Ordnet die Szenen an: Bringt die Clips in die richtige Reihenfolge gemäß eurem Storyboard.
 5. Macht den Rohschnitt: Schneidet grob die Teile heraus, die ihr nicht braucht (lange Pausen, Versprecher). Achtet noch nicht auf perfekte Übergänge.
-6. Speichert euer Projekt: Geht auf "Datei" -> "Speichern unter..." und sichert eure Projektdatei.
+  1. Anmerkung: Es genügt alle einzelnen Dateien zusammenzufügen. 
+7. Speichert euer Projekt: Geht auf "Datei" -> "Speichern unter..." und sichert eure Projektdatei.
+8. Gebt einen Screenshot eures Projekts im Videoschnittprogramm hier ab.
 
 Ressourcen:
 * https://www.shotcut.org/
