@@ -2,11 +2,11 @@
 
 ## Warum: Wir lernen im Team konzentriert und selbständig ein Medienprojekt abzuschließen.
 
-Aufgabe: Nehmt heute die restlichen Szenen eures Videos auf und fügt alles in einem Videoschnittprogramm zu einem ersten Rohschnitt zusammen.
+Aufgabe: Nehmt heute die Szenen eures Videos auf und fügt alles in einem Videoschnittprogramm zu einem ersten Rohschnitt zusammen.
 
 Schritt-für-Schritt Anleitung:
 1. Öffnet euer Storyboard und das Schnittprogramm (z.B. Shotcut).
-2. Nehmt die restlichen Szenen auf: Produziert die Videoclips für Akt 2 (Recherche) und Akt 3 (Die Wahrheit) aus eurem Storyboard.
+2. Nehmt die Szenen auf: Produziert die Videoclips aus eurem Storyboard.
 3. Importiert alle Clips: Zieht alle eure Videodateien in die Timeline des Schnittprogramms.
 4. Ordnet die Szenen an: Bringt die Clips in die richtige Reihenfolge gemäß eurem Storyboard.
 5. Macht den Rohschnitt: Schneidet grob die Teile heraus, die ihr nicht braucht (lange Pausen, Versprecher). Achtet noch nicht auf perfekte Übergänge.
