@@ -13,5 +13,7 @@ Schritt-für-Schritt Anleitung:
 4. Achtet auf die Ebenen: Rechts seht ihr das Ebenen-Fenster. Hier könnt ihr die Reihenfolge eurer "Folien" verändern.
 5. Speichert euer Projekt: Geht auf "Datei" -> "Speichern als PSD". Das ist wichtig, damit ihr nächstes Mal alle Ebenen wieder habt und weiterarbeiten könnt!
 
+Gebt euren Fortschritt am Ende der Stunde hier ab.
+
 Werkzeuge: https://www.photopea.com/
 
