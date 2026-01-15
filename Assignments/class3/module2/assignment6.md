@@ -2,12 +2,21 @@
 
 ## Warum: Wir lernen unsere datengestützte Analyse und Schlussfolgerungen klar, strukturiert und überzeugend zu präsentieren.
 
-## Aufgabe: Präsentiert euren gesamten Forschungsprozess – von der Frage bis zur Antwort – in einem klaren und professionellen Vortrag von maximal 5 Minuten.
+## Aufgabe: Präsentiert euren gesamten Forschungsprozess – von der Frage bis zur Antwort – in einem klaren und professionellen Vortrag von maximal 3 Minuten.
 
-Ablauf eures Vortrags:
-1. Die Forschungsfrage: Stellt euer Thema und eure zentrale Frage vor.
-2. Die Methode: Erklärt kurz, wie ihr vorgegangen seid (z.B. "Wir haben die Daten gefiltert und mit einer Pivot-Tabelle ausgewertet...").
-3. Das Ergebnis: Zeigt euer Pivot-Chart und erklärt, was es aussagt.
-4. Die Antwort & Diskussion: Präsentiert eure Kernaussage und was euch daran überrascht hat.
-5. Fragerunde: Seid bereit, Fragen zu eurer Methode und euren Schlussfolgerungen zu beantworte
+### Vorbereitung
 
+1. Jedes Team erstellt ein geteiltes Word Dokument.
+2. Bereitet als Überschrift 1 formatiert die Namen der anderen Teamleiter:innen vor
+3. Bereitet als Überschrift 2 formatiert folgende Punkte vor:
+  1. Was ist die Forschungsfrage?
+  2. Wie nehmen wir die Pivot-Chart wahr?
+  3. Was ist die Antwort auf die Forschungsfrage?
+  4. Welche Frage stellt sich euch nach dem Vortrag? (z.B. Weitere Forschungsmöglichkeiten? Was hättet ihr anders gemacht? ...)
+3. Kopiert die Punkte unter die Namen der anderen Teamleiter:innen
+
+### Vortrag
+
+Ein Team haltet den Vortrag, während die anderen Teams zuhören und die Punkte in ihrem Teamdokument befüllen.
+
+Gebt die Teamdokumente hier ab!
