@@ -4,9 +4,18 @@
 
 ## Aufgabe: Präsentiert als Team eure fertige Infografik und fasst die wichtigste Erkenntnis eurer Recherche in einem kurzen Statement (max. 90 Sekunden) zusammen.
 
-Ablauf eures "Kurator-Statements":
-1. Einleitung: Stellt eure App kurz vor ("Wir haben [Name der App] untersucht.")."
-2. Die wichtigste Erkenntnis: Was ist die eine Sache, die jede:r über diese App wissen sollte? Erklärt eure Kernaussage klar und deutlich.
-3. Der Beweis: Zeigt auf eurer Infografik kurz auf die Stelle, die diese Kernaussage am besten darstellt.
-4. Der Appell: Beendet mit einem klaren Tipp oder einer Warnung an die Nutzer.
+### Teil 1: Bereitet die Präsentation vor
 
+1. Erstellt eine PowerPoint Präsentation
+2. Erstellt je eine Folie für:
+  1. Einleitung: Name der App
+  1. Die wichtigste(n) Erkenntnis(se): Was müssen alle Leute über eure App wissen?
+  2. Den Beweis: Wo habt ihr das herausgefunden?
+  3. Euren Appell: Wie sollen sich eure Mitschüler:innen jetzt verhalten?
+3. Gebt eure Präsentation hier ab!
+
+### Teil 2: Tragt eure Präsentation vor!
+
+1. Ein Teammitglied verbindet sich via ScreenShare mit der Tafel.
+2. Ihr stellt eure Erkenntnisse gemeinsam vor.
+3. Ihr beantwortet Fragen zu eurem Vortrag.
