@@ -1,4 +1,6 @@
-# Retrospektive: Was die Daten uns lehrten
+# Retrospektive (Einzel)
+
+## Was die Daten uns lehrten
 
 ## Warum: Wir erkennen welche spezifischen Fähigkeiten bei der Datananalyse wichtig sind und wie wir sie für andere Fächer und Probleme nutzen können.
 
@@ -12,3 +14,5 @@ Fragen:
 Ressourcen:
 * https://www.atlassian.com/de/team-playbook/plays/retrospective
 
+Abgabe:
+* Dein Word Dokument mit sinnvoller Formatierung
